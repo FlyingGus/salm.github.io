@@ -233,7 +233,7 @@
                       <li>
                         <div class="unit">
                           <div class="unit-left"><span class="icon fa fa-phone"></span></div>
-                          <div class="unit-body"><a class="link-phone" href="tel:#">8 (967) 274-65-85 <br>8 (985) 388-80-42</a></div>
+                          <div class="unit-body"><a class="link-phone" href="tel:#">8 (967) 274-65-85  Анастасия Черекаева<br>8 (985) 388-80-42  Салм Анна</a></div>
                         </div>
                       </li>
                       <li>
